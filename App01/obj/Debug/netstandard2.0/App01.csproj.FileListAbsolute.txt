@@ -1,0 +1,13 @@
+/Users/admin/Projects/App01/App01/bin/Debug/netstandard2.0/App01.deps.json
+/Users/admin/Projects/App01/App01/bin/Debug/netstandard2.0/App01.dll
+/Users/admin/Projects/App01/App01/bin/Debug/netstandard2.0/App01.pdb
+/Users/admin/Projects/App01/App01/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/admin/Projects/App01/App01/obj/Debug/netstandard2.0/LayaoutPage.xaml.g.cs
+/Users/admin/Projects/App01/App01/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/admin/Projects/App01/App01/obj/Debug/netstandard2.0/App01.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/App01/App01/obj/Debug/netstandard2.0/App01.AssemblyInfoInputs.cache
+/Users/admin/Projects/App01/App01/obj/Debug/netstandard2.0/App01.AssemblyInfo.cs
+/Users/admin/Projects/App01/App01/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/admin/Projects/App01/App01/obj/Debug/netstandard2.0/App01.dll
+/Users/admin/Projects/App01/App01/obj/Debug/netstandard2.0/App01.pdb
+/Users/admin/Projects/App01/App01/obj/Debug/netstandard2.0/App01.csprojAssemblyReference.cache

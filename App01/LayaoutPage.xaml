@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    BackgroundImageSource="Background.jpg"
+    Title="TOHOME"
+    x:Class="App01.LayaoutPage">
+    <RelativeLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <ScrollView>
+            <StackLayout>
+                <Grid VerticalOptions="CenterAndExpand" HorizontalOptions="Center" Margin="30">
+                   <Grid.RowDefinitions>
+                           <RowDefinition/>
+                           <RowDefinition />
+                   </Grid.RowDefinitions>
+                   <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                   </Grid.ColumnDefinitions>
+                        <Image x:Name="img1"
+                               Source="1.png"
+                               Grid.Row="0" Grid.Column="0"
+                               BackgroundColor="#ffe6e6"
+                               WidthRequest="150"
+                               HeightRequest="150"/>
+                        <Image x:Name="img2"
+                               Source="2.png"
+                               Grid.Row="0" Grid.Column="1"
+                               BackgroundColor="#f2f2f2"
+                               WidthRequest="150"
+                               HeightRequest="150"/>
+                        <Image x:Name="img3"
+                               Source="3.png"
+                               Grid.Row="1" Grid.Column="0"
+                               BackgroundColor="#f9ecf2"
+                               WidthRequest="150"
+                               HeightRequest="150"/>
+                        <Image x:Name="img4"
+                               Source="4.png"
+                               Grid.Row="1" Grid.Column="1"
+                               BackgroundColor="#e6eeff"
+                               WidthRequest="150"
+                               HeightRequest="150"/>
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    </RelativeLayout>
+</ContentPage>

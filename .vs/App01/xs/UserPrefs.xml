@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CD342CB0-7456-487F-89E6-906FEAD13052}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App01/LayaoutPage.xaml">
+    <Files>
+      <File FileName="App01/LayaoutPage.xaml" Line="17" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="App01" expanded="True">
+            <Node name="App01" expanded="True" selected="True" />
+            <Node name="App01.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.App01.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BD7D213E-4F27-4325-A0B5-F55304B16C14" />
+  <MonoDevelop.Ide.ItemProperties.App01.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>
